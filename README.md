@@ -2,8 +2,6 @@
 
 A powerful command-line tool built in Go that allows cybersecurity professionals to search, filter, and inspect vulnerability data directly from the [ENISA EUVD API](https://euvdservices.enisa.europa.eu/).
 
-> Built for analysts. Powered by open intelligence. 🇪🇺
-
 ---
 
 ## ✨ Features
